@@ -1,4 +1,4 @@
-# Awesome Others Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Others Mind Maps](https://mindmapai.app/mind-maps/others) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Explore niche and emerging fields with project management and mind maps AI to organize ideas, track discoveries, and manage unique projects effectively. Mind maps AI empowers creative exploration by visually mapping unconventional paths and fostering innovation across diverse domains.
 
